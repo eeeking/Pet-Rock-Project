@@ -1,0 +1,12 @@
+1,John,Smith,smith@gmail.com,12345678,0
+2,David,Ross,dross@yahoo.com,abc12345,0
+3,Jacob,Smith,jacob@,1234,0
+4,John,Jacob,jjacob@gmail.com,1234,0
+5,Jeremiah,Iacob,abc@.com,123456789,0
+6,J,I,j@,12345678,0
+7,Adam,L,adam@gmail.com,12345678,0
+8,jere,i,jere@,12345678,0
+9,jere,i,jere@gmail.com,12345678,0
+10,Jere,i,smith2@gmail.com,12345678,0
+11,Jere,I,smith3@gmail.com,12345678,0
+12,Billy,Bob,billybob@maill.com,password1,0
